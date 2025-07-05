@@ -1,4 +1,4 @@
-# PRODIGY_RCA_04
+# PRODIGY_FSWD_04
 Build a social media application
 where users can create profiles,
 share posts, like, and comment on
